@@ -19,7 +19,7 @@ python action_handler.py <ActionName>
 
 To execute an action named "MyAction":
 
-## bash
+''' Powershell
 
 python action_handler.py MyAction
 
