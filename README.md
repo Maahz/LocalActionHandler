@@ -19,9 +19,9 @@ python action_handler.py <ActionName>
 
 To execute an action named "MyAction":
 
-''' Powershell
-
+```Powershell
 python action_handler.py MyAction
+```
 
 This command sends a POST request to the Streamer.bot's DoAction API endpoint, triggering the specified action.
 ## Technical Details
