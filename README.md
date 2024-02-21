@@ -1,4 +1,4 @@
-# Streamer.bot Local Action Executor
+# Streamer.bot Local Action Handler
 
 This Python application serves as a local interface for executing actions within Streamer.bot via its HTTP Server. By leveraging the DoAction API endpoint, the app enables streamlined action execution directly from the command line, facilitating automation and integration with other software tools.
 ##Features
@@ -31,4 +31,4 @@ By default, the application is configured to connect to the Streamer.bot HTTP Se
 After sending the POST request, the application checks the HTTP response status code. A status code of 204 indicates that the action was successfully executed. If any other status code is received, the application will report a failure along with the response details for troubleshooting.
 ## Conclusion
 
-This Streamer.bot Local Action Executor offers a convenient way to automate and integrate action execution within Streamer.bot, enhancing the capabilities of your streaming setup with the power of automation.
+This Streamer.bot Local Action Handler offers a convenient way to automate and integrate action execution within Streamer.bot, enhancing the capabilities of your streaming setup with the power of automation.
