@@ -11,10 +11,6 @@ This Python application serves as a local interface for executing actions within
 
 To execute an action, run the application with the desired action name as a parameter. Here's the syntax for running an action:
 
-## Command line
-
-python action_handler.py <ActionName>
-
 ## Example
 
 To execute an action named "MyAction":
